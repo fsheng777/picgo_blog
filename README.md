@@ -1,2 +1,2 @@
 # picgo_blog
-使用picgo+github的图床
+PicGo图床+Github 
